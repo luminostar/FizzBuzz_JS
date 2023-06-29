@@ -1,2 +1,2 @@
-# FIzzBuzz-JS
+# FizzBuzz-JS
 First Javascript project
